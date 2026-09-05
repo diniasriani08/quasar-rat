@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Quasar.Core</RootNamespace>
+    <AssemblyName>Quasar.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
